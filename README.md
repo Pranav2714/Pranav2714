@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React, Backend, Competitive Programming<br>
+<br>🌱 I’m currently learning Next.js, GenAI<br>💬 Ask me about React, Backend, Competitive Programming<br>
 
 
 ## 🌐 Socials:
